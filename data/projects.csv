@@ -1,0 +1,4 @@
+"id","name","description","startDate","endDate","status"
+"DA01","Cổng thông tin nội bộ","Xây dựng ứng dụng quản lý thông tin nhân viên","2026-10-01","2026-12-31","IN_PROGRESS"
+"DA02","Quản lý kho thiết bị","Ứng dụng quản lý tài sản nhóm nhỏ","2026-11-01","2027-01-15","PLANNED"
+"OPENBANKING","OPENBANKING","","2026-10-27","2027-10-30","PLANNED"

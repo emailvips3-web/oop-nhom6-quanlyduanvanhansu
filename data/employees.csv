@@ -1,0 +1,6 @@
+"type","id","fullName","email","baseSalary","detail","extra"
+"DEVELOPER","NV01","Nguyễn Minh An","an@example.org","1.6E7","Java","3"
+"TESTER","NV02","Trần Thu Hà","ha@example.org","1.3E7","Functional","1"
+"MANAGER","NV03","Lê Quốc Bình","binh@example.org","2.2E7","PMO","3500000.0"
+"DEVELOPER","NV04","Phạm Gia Huy","huy@example.org","1.4E7","Python","1"
+"TESTER","NV05","Đỗ Thảo My","my@example.org","1.2E7","API","0"

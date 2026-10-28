@@ -1,0 +1,6 @@
+"id","projectId","title","priority","status","estimatedHours","assigneeId"
+"CV01","DA01","Phân tích yêu cầu","HIGH","DONE","16.0","NV03"
+"CV02","DA01","Phát triển API nhân sự","HIGH","IN_PROGRESS","40.0","NV01"
+"CV03","DA01","Kiểm thử API nhân sự","MEDIUM","TODO","24.0","NV02"
+"CV04","DA02","Thiết kế dữ liệu kho","HIGH","TODO","32.0","NV04"
+"CV05","DA02","Kiểm thử nghiệp vụ kho","MEDIUM","TODO","20.0","NV05"
